@@ -48,3 +48,10 @@ export default tseslint.config({
   },
 })
 ```
+
+To run the code ---> 
+```js
+cd assignment
+npm install
+npm run dev
+```
